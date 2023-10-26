@@ -14,7 +14,7 @@ curl -L "https://github.com/docker/compose/releases/latest/download/docker-compo
 ```
 02. Tạo bản sao git về may chủ
 ```
-git clone https://github.com/d3473r/youtube-mp3-bot.git
+git clone https://github.com/nqthaivl/youtube-mp3-bot.git
 ```
 3. Chuyển đến thư mục youtube-mp3
 ```
