@@ -25,7 +25,7 @@ cd youtube-mp3-bot
 cp .env.example .env
 ```
 5. Chỉnh sửa file `.env` thêm token telegram vào
-6. Khởi chạy docker (nhớ chuyển vào thư mục youtube-mp3-bot rồi chạy
+6. Khởi chạy docker (nhớ chuyển vào thư mục youtube-mp3-bot rồi chạy)
 ```
 docker-compose up -d
 ```
